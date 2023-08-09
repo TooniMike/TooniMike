@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on opensource
-- 📫 How to reach me osinjesutooni@gmail.com
+- 📫 How to reach me toonimikee@gmail.com
 
 <!---
 TooniMike/TooniMike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
