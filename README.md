@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TooniMike
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python
+- 🌱 I love to be creative with flutter and dart
 - 💞️ I’m looking to collaborate on opensource
 - 📫 How to reach me toonimikee@gmail.com
 
