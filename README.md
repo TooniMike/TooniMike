@@ -1,6 +1,7 @@
 <div align="center">
 # Hi 👋, I'm Tooni(tron)
 ## A top-tier Flutter and DjangoRest Developer
+</div>
 
 ![](https://github-profile-trophy.vercel.app/?username=toonimike&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 *
@@ -28,4 +29,4 @@ If you have any questions or want to chat about Flutter, Django REST, or open so
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
+
