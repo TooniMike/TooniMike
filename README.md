@@ -1,7 +1,6 @@
-<div align="center">
 # Hi 👋, I'm Tooni(tron)
 ## A top-tier Flutter and DjangoRest Developer
-</div>
+
 
 ![](https://github-profile-trophy.vercel.app/?username=toonimike&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 *
