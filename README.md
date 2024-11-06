@@ -11,7 +11,7 @@ I’m inspired by the power of open source technology and enjoy both contributin
 
 If you have any questions or want to chat about Flutter, Django REST, or open source development, feel free to reach out! I’m always excited to connect with like-minded developers and collaborate on new ideas.
 ##
-![](https://github-readme-stats.vercel.app/api?username=toonimike&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=toonimike&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=toonimike&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=toonimike&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
