@@ -4,7 +4,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=toonimike&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-#
+##
 Hello and welcome to my GitHub profile! My name is Osin Jesutooni (a.k.a. Tron), and I’m a passionate Flutter and Django REST developer with a love for open source.
 
 I’m inspired by the power of open source technology and enjoy both contributing to and learning from the amazing developer community here on GitHub. My projects include a range of Flutter apps and Django REST APIs that highlight my skills and interests. From beautifully designed user interfaces to robust backend development, I’m continually exploring and creating with Flutter and Django REST Framework.
